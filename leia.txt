@@ -1,0 +1,38 @@
+
+get all
+http://localhost:51964/user
+
+
+post 
+http://localhost:51964/user
+
+{
+    "Name" :"Guilherme F Maurila",
+    "Email" : "gfmaurila@gmail.com",
+    "Gender" : "Admin"
+}
+
+get by id
+http://localhost:51964/user/2
+
+
+delete
+http://localhost:51964/user
+
+{
+    "id": 1
+}
+
+
+
+
+swagger
+http://localhost:51964/swagger/index.html
+
+
+
+
+
+
+
+

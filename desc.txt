@@ -1,0 +1,33 @@
+﻿Criar uma aplicação WebApi em .NET Core 3.1, que utilize: 
+	- Documentação da API com Swagger. 
+	- Testes unitários. 
+	- Armazenamento do código em um repositório Git. 
+
+ A aplicação terá os seguintes métodos: 
+	- GET 
+	- GET\{​​​​​id}​​​​​ 
+	- POST 
+	- PATH 
+	- DELETE 
+
+Armazenar e buscar as informações de uma base de dados SQL Server, utilizando a seguinte
+	tabela: 
+		User​​ 
+			Id : int 
+			Name : string
+			Email : string
+			Gender : string
+		
+Premissas: 
+	- Usar repositório público para disponibilizar o fonte.
+
+Critérios de Avaliação: 
+	- Estruturação do código 
+	- Uso de design patterns
+	- Testes unitários.
+	- Uso de repositorio de código. 
+
+Diferenciais: 
+	- Conhecimento de linguagens funcionais. 
+	- Conhecimento de banco de dados SQL 
+	- Utilizar algum tipo de container ou docker. 
